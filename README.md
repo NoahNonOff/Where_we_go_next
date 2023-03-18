@@ -5,7 +5,7 @@ Fait une fonction `ft_move` qui prend en paramètres une structure coord (x et y
 et un char ('w', 'e', 'n', 's') et devra renvoyer en fonction de la direction
 de nouvelles coordonées
 
-**Point sur un plan (1, 2) par exemple**
+**Point sur un plan (3, 2) par exemple**
 ```
 (y)
  |
