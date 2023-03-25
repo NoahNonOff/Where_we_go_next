@@ -18,7 +18,16 @@ de nouvelles coordonées sachant que la fonction `ft_move` créer un déplacemen
 
 pos(x = 1, y = 3) and 'n' should return pos(x = 2, y = 3)<br/>
 pos(x = 1, y = 3) and 'e' should return pos(x = 1, y = 4)<br/>
-<br/>
+
+le fichier `.h` contient :
+```#include <unistd.h>
+#include <stdio.h>
+
+typedef struct Coord {
+  int x;
+  int y;
+}  coord;```
+
 n == Nord<br/>
 s == Sud<br/>
 e == East<br/>
