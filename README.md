@@ -18,6 +18,7 @@ de nouvelles coordonées
 
 pos(x = 1, y = 3) and 'n' should return pos(x = 2, y = 3)<br/>
 pos(x = 1, y = 3) and 'e' should return pos(x = 1, y = 4)<br/>
+<br/>
 n == Nord<br/>
 s == Sud<br/>
 e == East<br/>
