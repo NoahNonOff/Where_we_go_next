@@ -4,12 +4,13 @@
 Fait une fonction `ft_move` qui prend en paramètres une structure coord (x et y) et un char ('w', 'e', 'n', 's') et devra renvoyer en fonction de la direction
 de nouvelles coordonées sachant que la fonction `ft_move` créer un déplacement de 1 dans la direction donnée
 
-**Point sur un plan (3, 2) par exemple**
+**Déplacement sur un plan (4, 3)**
 ```
 (y)
  |
- |
- |     +
+ |     n
+ |   w + e
+ |     s
  |__________ (x)
  ```
 
