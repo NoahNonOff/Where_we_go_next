@@ -26,7 +26,8 @@ le fichier `.h` contient :
 typedef struct Coord {
   int x;
   int y;
-}  coord;```
+}  coord;
+```
 
 n == Nord<br/>
 s == Sud<br/>
