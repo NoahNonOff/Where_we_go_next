@@ -16,8 +16,8 @@ de nouvelles coordonées sachant que la fonction `ft_move` créer un déplacemen
 
 `coord	ft_move(coord pos, char direction);`
 
-pos(x = 1, y = 3) and 'n' should return pos(x = 2, y = 3)<br/>
-pos(x = 1, y = 3) and 'e' should return pos(x = 1, y = 4)<br/>
+pos(x = 1, y = 3) and 'e' should return pos(x = 2, y = 3)<br/>
+pos(x = 1, y = 3) and 's' should return pos(x = 1, y = 4)<br/>
 
 le fichier `.h` contient :
 ```
